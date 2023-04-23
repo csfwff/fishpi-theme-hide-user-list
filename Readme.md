@@ -10,7 +10,7 @@ git clone https://github.com/csfwff/fishpi-theme-hide-user-list.git
 ```
 或下载 Code 压缩档，解压到该目录。
 
-重新进入设置界面，主题栏位下拉选择`白色主题`即可。
+重新进入设置界面，主题栏位下拉选择`全局隐藏用户列表`即可。
 
 ## 预览
 
