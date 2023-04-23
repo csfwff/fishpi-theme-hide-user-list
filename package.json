@@ -1,0 +1,17 @@
+{
+  "name": "theme-hide-user-list",
+  "publisher": "csfwff",
+  "version": "1.0.0",
+  "description": "全局隐藏用户列表",
+  "main": "index.css",
+  "scripts": {
+  },
+  "fishpi": {
+    "type": "theme"
+  },
+  "author": "csfwff",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/imlinhanchao/fishpi-theme-white"
+  }
+}
